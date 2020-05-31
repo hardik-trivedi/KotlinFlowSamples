@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="835c5994-bf94-478c-a697-d864e3b44f0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJ1H9rmDYut82Jsdplt1Vwru4V" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.example.kotlinflow.oncompletion.OnCompletionKt">
+    <configuration name="com.example.kotlinflow.buffer.BufferOperatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFlowSamples.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinflow.buffer.BufferOperatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.kotlinflow.exceptiontransparancy.ExceptionTransperancyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFlowSamples.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinflow.exceptiontransparancy.ExceptionTransperancyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.kotlinflow.filteroperator.FilterOperatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFlowSamples.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinflow.filteroperator.FilterOperatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.kotlinflow.oncompletion.OnCompletionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFlowSamples.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinflow.oncompletion.OnCompletionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.kotlinflow.sequential.SequentialBehaviourKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinFlowSamples.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinflow.sequential.SequentialBehaviourKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.example.kotlinflow.oncompletion.OnCompletionKt" />
+        <item itemvalue="Kotlin.com.example.kotlinflow.exceptiontransparancy.ExceptionTransperancyKt" />
+        <item itemvalue="Kotlin.com.example.kotlinflow.buffer.BufferOperatorKt" />
+        <item itemvalue="Kotlin.com.example.kotlinflow.filteroperator.FilterOperatorKt" />
+        <item itemvalue="Kotlin.com.example.kotlinflow.sequential.SequentialBehaviourKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="835c5994-bf94-478c-a697-d864e3b44f0a" name="Default Changelist" comment="" />
+      <created>1590231791528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590231791528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1858" height="332" key="GridCell.Tab.0.bottom" timestamp="1590777388808">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="556" key="GridCell.Tab.0.bottom/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590233963046" />
+    <state width="1858" height="556" key="GridCell.Tab.0.bottom/-255.-1057.1920.1057/0.23.1440.877@-255.-1057.1920.1057" timestamp="1590332928018" />
+    <state width="1378" height="465" key="GridCell.Tab.0.bottom/-255.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590611512657" />
+    <state width="1858" height="585" key="GridCell.Tab.0.bottom/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590689599807" />
+    <state width="1378" height="465" key="GridCell.Tab.0.bottom/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1590611446182" />
+    <state width="1858" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388808" />
+    <state width="1858" height="556" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1590266505528" />
+    <state width="1858" height="332" key="GridCell.Tab.0.center" timestamp="1590777388806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="556" key="GridCell.Tab.0.center/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590233963044" />
+    <state width="1858" height="556" key="GridCell.Tab.0.center/-255.-1057.1920.1057/0.23.1440.877@-255.-1057.1920.1057" timestamp="1590332928017" />
+    <state width="1378" height="465" key="GridCell.Tab.0.center/-255.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590611512655" />
+    <state width="1858" height="585" key="GridCell.Tab.0.center/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590689599805" />
+    <state width="1378" height="465" key="GridCell.Tab.0.center/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1590611446178" />
+    <state width="1858" height="332" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388806" />
+    <state width="1858" height="556" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1590266505527" />
+    <state width="1858" height="332" key="GridCell.Tab.0.left" timestamp="1590777388805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="556" key="GridCell.Tab.0.left/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590233963043" />
+    <state width="1858" height="556" key="GridCell.Tab.0.left/-255.-1057.1920.1057/0.23.1440.877@-255.-1057.1920.1057" timestamp="1590332928016" />
+    <state width="1378" height="465" key="GridCell.Tab.0.left/-255.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590611512655" />
+    <state width="1858" height="585" key="GridCell.Tab.0.left/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590689599804" />
+    <state width="1378" height="465" key="GridCell.Tab.0.left/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1590611446176" />
+    <state width="1858" height="332" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388805" />
+    <state width="1858" height="556" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1590266505526" />
+    <state width="1858" height="332" key="GridCell.Tab.0.right" timestamp="1590777388807">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="556" key="GridCell.Tab.0.right/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590233963045" />
+    <state width="1858" height="556" key="GridCell.Tab.0.right/-255.-1057.1920.1057/0.23.1440.877@-255.-1057.1920.1057" timestamp="1590332928018" />
+    <state width="1378" height="465" key="GridCell.Tab.0.right/-255.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1590611512656" />
+    <state width="1858" height="585" key="GridCell.Tab.0.right/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590689599806" />
+    <state width="1378" height="465" key="GridCell.Tab.0.right/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1590611446181" />
+    <state width="1858" height="332" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388807" />
+    <state width="1858" height="556" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1590266505527" />
+    <state width="1858" height="332" key="GridCell.Tab.1.bottom" timestamp="1590777388811">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="332" key="GridCell.Tab.1.bottom/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590688601874" />
+    <state width="1858" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388811" />
+    <state width="1858" height="332" key="GridCell.Tab.1.center" timestamp="1590777388809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="332" key="GridCell.Tab.1.center/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590688601872" />
+    <state width="1858" height="332" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388809" />
+    <state width="1858" height="332" key="GridCell.Tab.1.left" timestamp="1590777388808">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="332" key="GridCell.Tab.1.left/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590688601870" />
+    <state width="1858" height="332" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388808" />
+    <state width="1858" height="332" key="GridCell.Tab.1.right" timestamp="1590777388810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="332" key="GridCell.Tab.1.right/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590688601873" />
+    <state width="1858" height="332" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388810" />
+    <state x="-196" y="-1057" width="1446" height="1057" key="SettingsEditor" timestamp="1590328791494">
+      <screen x="-196" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-196" y="-1057" width="1446" height="1057" key="SettingsEditor/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590328791494" />
+    <state x="472" y="-769" key="chooseDestDirectoryDialog" timestamp="1590232721794">
+      <screen x="-196" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="472" y="-769" key="chooseDestDirectoryDialog/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590232721794" />
+    <state x="234" y="139" width="1206" height="730" key="find.popup" timestamp="1590610993293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="293" y="-894" width="941" height="730" key="find.popup/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590233714287" />
+    <state x="234" y="139" width="1206" height="730" key="find.popup/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1590610993293" />
+    <state x="338" y="-920" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1590689357625">
+      <screen x="-255" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="338" y="-920" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590689357625" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow/oncompletion/OnCompletion.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
