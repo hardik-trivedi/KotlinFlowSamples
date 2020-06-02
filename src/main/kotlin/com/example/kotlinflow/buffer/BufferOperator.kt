@@ -3,7 +3,7 @@ package com.example.kotlinflow.buffer
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 import kotlin.system.measureTimeMillis
-//TODO Remove slide number
+
 fun main() = runBlocking {
     val timeTaken = measureTimeMillis {
         downloadVideo()

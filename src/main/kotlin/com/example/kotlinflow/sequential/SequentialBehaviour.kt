@@ -3,7 +3,7 @@ package com.example.kotlinflow.sequential
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 import kotlin.system.measureTimeMillis
-//TODO Make it better example
+
 fun main() = runBlocking {
     val timeTaken = measureTimeMillis {
         getThreeIngredients().collect {

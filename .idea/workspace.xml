@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="835c5994-bf94-478c-a697-d864e3b44f0a" name="Default Changelist" comment="" />
+    <list default="true" id="835c5994-bf94-478c-a697-d864e3b44f0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/KotlinFlowSamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow/buffer/BufferOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow/buffer/BufferOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow/sequential/SequentialBehaviour.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow/sequential/SequentialBehaviour.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cJ1H9rmDYut82Jsdplt1Vwru4V" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -26,8 +35,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinflow" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -184,10 +195,11 @@
     </state>
     <state width="1858" height="332" key="GridCell.Tab.1.right/-255.-1080.1920.1080/0.0.1440.900@-255.-1080.1920.1080" timestamp="1590688601873" />
     <state width="1858" height="332" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590777388810" />
-    <state x="-196" y="-1057" width="1446" height="1057" key="SettingsEditor" timestamp="1590328791494">
-      <screen x="-196" y="-1057" width="1920" height="1057" />
+    <state x="0" y="0" width="1350" height="900" key="SettingsEditor" timestamp="1591080408613">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-196" y="-1057" width="1446" height="1057" key="SettingsEditor/-196.-1057.1920.1057/0.23.1440.877@-196.-1057.1920.1057" timestamp="1590328791494" />
+    <state x="0" y="0" width="1350" height="900" key="SettingsEditor/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591080408613" />
     <state x="472" y="-769" key="chooseDestDirectoryDialog" timestamp="1590232721794">
       <screen x="-196" y="-1057" width="1920" height="1057" />
     </state>
